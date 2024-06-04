@@ -1,0 +1,4 @@
+place-self-center mt-4 lg:mt-0
+
+px-[2px] py-[2px]  h-full bg-gradient-to-br mt-2 mb-2 from-blue-700 via-purple-800 to-pink-700  relative   w-[200px] lg:mr-7 lg:ml-7 sm:mr-3 sm:ml-3  sm:w-[200px] lg:h-[fit] full lg:w-[500px] rounded-lg shadow-lg
+<span className="block bg-[#121212] h-full rounded  px-5 py-3">
