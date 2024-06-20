@@ -3,8 +3,6 @@
 
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
-
-import StarCanvas from "../app/components/canvas/stars";
 import Skills from "./components/Skills";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
