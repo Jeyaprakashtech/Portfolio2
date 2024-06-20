@@ -2,12 +2,11 @@
 import React from "react";
 import Image from "next/image";
 import { TypeAnimation } from "react-type-animation";
-import HeroBgAnimation from "./HeroBgAnimation";
 import { Tilt } from "react-tilt";
 import { motion } from "framer-motion"; 
 import {headContainerAnimation, headContentAnimation} from "../utils/motion"
 import { headTextAnimation } from "../utils/motion";
-import StarCanvas from "./canvas/stars";
+
 
 
 
